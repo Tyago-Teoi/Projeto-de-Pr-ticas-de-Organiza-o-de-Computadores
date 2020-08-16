@@ -12,5 +12,5 @@ Manual de execução do jogo:
 - Precione a tecla 'Home' para iniciar o jogo.
 
 F.A.Q:
-- Meu F7 não compila!
+- Meu F7 não compila!\n
 	Vá em Tools > Build System , e verifique se a opção "Assembly ICMC" está selecionada.
