@@ -9,6 +9,7 @@ Manual de execução do jogo:
 - Tenha certeza que o "charmap.mif" também está na pasta "Simulador".
 - Para programar, utilize o "sublime_text.exe" dentro da pasta "SublimeModificado".
 - Com o Sublime Text aberto, pressione F7 para Montar e Simular o código.
+- Precione a tecla 'Home' para iniciar o jogo.
 
 F.A.Q:
 - Meu F7 não compila!
