@@ -1,13 +1,15 @@
-Manual:
+# Jogo Space Race
+Jogo em assembly do processador ICMC.
 
+Explica√ß√£o do c√≥digo e do jogo:
+https://youtu.be/GkfSWfMXDLs
+
+Manual de execu√ß√£o do jogo:
 - Salve seus arquivos na pasta "Simulador".
-- Tenha certeza que o "charmap.mif" tambÈm est· na pasta "Simulador".
+- Tenha certeza que o "charmap.mif" tamb√©m est√° na pasta "Simulador".
 - Para programar, utilize o "sublime_text.exe" dentro da pasta "SublimeModificado".
-- Com o Sublime Text aberto, pressione F7 para Montar e Simular o cÛdigo.
+- Com o Sublime Text aberto, pressione F7 para Montar e Simular o c√≥digo.
 
 F.A.Q:
-
-- Meu F7 n„o compila!
-	V· em Tools > Build System , e verifique se a opÁ„o "Assembly ICMC" est· selecionada.
-
-Outros erros, d˙vidas ou sugestıes sobre o Sublime Text, entre em contato: carlosasj@hotmail.com.br
+- Meu F7 n√£o compila!
+	V√° em Tools > Build System , e verifique se a op√ß√£o "Assembly ICMC" est√° selecionada.
